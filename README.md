@@ -5,6 +5,7 @@ Features:
 User Interaction: The game offers a user-friendly interface where players can make their choice by clicking on buttons representing "Rock", "Paper", or "Scissors".
 Computer Opponent: The computer randomly selects its choice after the player makes their selection, creating an unpredictable gaming experience.
 Result Display: Once both the player and the computer have made their choices, the result of the game is displayed on the screen, indicating whether the player has won, lost, or the game resulted in a tie.
+Score Display: The score board shows scores of user and computer .
 
 Technologies Used:-
 HTML: Used for structuring the web page and defining elements.
